@@ -1680,7 +1680,10 @@ so that it be the Consequence of eight Tones or Notes: by which Connexion and Se
                            </row>
                         </table>
                      </p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:59254:31"/>And this is the old <hi>Diaton</hi> Scale. Thus we have con<g ref="char:EOLhyphen"/>tracted the new <hi>Syntonian</hi> Scale of <hi>Lippius.</hi>
+                        <figure/>
+                     </p>
                      <p>
                         <pb n="47" facs="tcp:59254:31"/>In this Table musical <hi>Sounds</hi> are so contained, that first there is the <hi>Simple Vnison.</hi> 2. The <hi>Tonus mi<g ref="char:EOLhyphen"/>nor.</hi> 3. The <hi>Tonus major.</hi> 4. The <hi>greater Semi<g ref="char:EOLhyphen"/>tone.</hi> 5. The <hi>Semiditone.</hi> 6. The <hi>Ditone.</hi> 7. The <hi>Fourth.</hi> 8. The <hi>Fifth.</hi> 9. The <hi>lesser Sixth.</hi> 10. The <hi>greater Sixth.</hi> 11. The <hi>lesser Seventh.</hi> 12. The <hi>greater Seventh.</hi> 13. The <hi>Octave.</hi> And this is the <hi>Cyclus</hi> or Compass of the <hi>Diapason.</hi> Con<g ref="char:EOLhyphen"/>cerning the Proportions of all these <hi>Sounds,</hi> look into the former <hi>Chap.</hi> thus <hi>v. gr.</hi> To the <hi>Octave</hi> ascribe 1.2. to the <hi>Septima</hi> 8.15. and so of others: So that the lesser number be applied to the upper Note in the <hi>Scale.</hi> The significates of the Letters. <hi>B. L. b.l.bb.</hi> are a little before called <hi>bo.ce.di.ga.lo.ma.ni.</hi>
                      </p>
@@ -2340,15 +2343,24 @@ condemneth the <hi>Lydian</hi> and <hi>Ionic Harmony</hi> as sottish. This Mood 
                      <figure>
                         <head>Authent Moods in a sharp Song.</head>
                      </figure>
-                     <figure>
-                        <head>Authent Moods in a Flat Song.</head>
-                     </figure>
-                     <figure>
-                        <head>Plagal Moods in a Sharp Song.</head>
-                     </figure>
-                     <figure>
-                        <head>Of the Plagal Mood in a Flat Song.</head>
-                     </figure>
+                     <p>
+                        <pb n="84" facs="tcp:59254:50"/>
+                        <figure>
+                           <head>Authent Moods in a Flat Song.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb n="85" facs="tcp:59254:50"/>
+                        <figure>
+                           <head>Plagal Moods in a Sharp Song.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb n="86" facs="tcp:59254:51"/>
+                        <figure>
+                           <head>Of the Plagal Mood in a Flat Song.</head>
+                        </figure>
+                     </p>
                      <p>By these Tables it doth appear that the Plagal Mood differeth not from the Anthent but by remis<g ref="char:EOLhyphen"/>sion into the fourth: when in the Authent here is an Elevation into the fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>th <hi>v. g.</hi> if in the <hi>Ionic</hi> Mood it be <hi>vt, sol,</hi> in the <hi>Hypolonic,</hi> it will be <hi>vt. fa.</hi> hence also the Compass of all Moods may easily be found.
